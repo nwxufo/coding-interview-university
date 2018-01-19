@@ -1,0 +1,29 @@
+Some tips for using whiteboard effectively in a programming interview.
+_____________________________
+Note and figures on the side.
+  use one corner of the white board to note down the requirements you have heard or
+an example figure that your interviewer has drawn.
+  As you are thinking and asking clarifying questions to your interviewr take notes there.
+  These can just be one-word bullets to make you remember all the scenarios.
+_____________
+Write Clearly
+  Try to write clearly as  possible while not slowing down a lot.
+  Yes, they are not interested in seeing your calling graphy skills BUT you are still writing this for
+someone else to read. It has to be legible.
+  The cleaner you write the easier it is for your interviewer to understand. Design diagrams should also be easily understandable.
+_________________________
+Use the Space Efficiently
+  Serveral times, candidates start writing XL size code and then have to inevitably write in super small font cramming in may lines in a small area. Then they turn to use arrows to point to other parts of the board where they will write the remainning code. Avoid that. It's hard to follow code written on different parts of the board.
+  When you start  writing code for problems remember that most interview problem solutions span at least 15-20 lines of code. You need to make enough room for this much content.
+  Adapt to the size of whiteboard on which you are going to solve the problem. Sizes of the whiteboard vary a lot even within different rooms of the same company.
+  Always leave some room for potential edits e.g. extra parameters, null checks, trivial if conditions etc.
+
+  one pro tip to use space efficiently is to structure your code in small function.
+_______________________
+Edits are part of games
+  Don't be afraid to change code, Several times, interviewer would modify requirenments to see how you handle a slightly different or challenging variation of the same problem.
+  You will also have to edit your code if you find a bug during testing. In such cases, instead of overwriting or crossing out code, it's better to erase and re-write that part of the code.
+_________
+Practice!
+  Makesure you have a whiteboard at your home. It helps a lot. You should practice solving problems on a whiteboard before your interview.
+  As you begin preparing for your interview. consider practicing on whiteboard an important part of your preparation along with studying for algorithmic and design.
